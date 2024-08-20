@@ -3,7 +3,7 @@
 본 Repository는 K-Paas 컨테이너플랫폼을 활용해 **MSA(Micro Service Architecture)** 샘플 프로젝트를 구축하고 활용할 수 있도록 구성되어있다.
 > 컨테이너플랫폼 파이프라인 서비스를 이용해 해당 샘플을 배포하는 방법은 아래 가이드를 참고한다.  
 [[Pipeline 서비스 사용 가이드]](https://github.com/K-PaaS/container-platform/blob/master/use-guide/pipeline/cp-pipeline-use-guide.md)
-# test444
+
 <br>
 
 ## 구성도
